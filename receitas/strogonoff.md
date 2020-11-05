@@ -1,6 +1,6 @@
-#Strogonoff de Frango :chicken:#
+#Strogonoff de Frango :chicken:
 
-###Ingreditentes###
+###Ingreditentes
 **negrito** _Itálico_
 
  - Lista de ingrdientes, item1
